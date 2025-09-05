@@ -2,6 +2,6 @@
 Start
     width = 3
     length = 5
-    area = length* width
+    area = length x width
     Show area
 End
