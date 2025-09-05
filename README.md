@@ -1,2 +1,2 @@
 # Name: Mikhael Dylan Tjokrodiponto
-# NIM = 2902712814
+# NIM: 2902712814
