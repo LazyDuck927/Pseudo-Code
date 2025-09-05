@@ -1,6 +1,8 @@
+```
 Start
 Input length
 Input width
 area = length x width
 Show area
 Stop
+```
